@@ -1,4 +1,5 @@
-# <a href='http://alexmarrero.tech'><img src='https://adatumno.azureedge.net/wp-content/uploads/2018/04/AzureLogo.png' height='60 alt='Azure Logo' /></a> Sample repo on Github
+# <img src="https://images-na.ssl-images-amazon.com/images/I/51-Hci2bYjL.png" alt="Pluralsight Logo"/> Github Demo Repo
+# My cool project and above is the logo of it
 
 ##Github getting started
 Learning Git and Github
