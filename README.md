@@ -1,4 +1,4 @@
-# <a href='http://alexmarrero.tech'><img src='https://adatumno.azureedge.net/wp-content/uploads/2018/04/AzureLogo.png' height='60' alt='Azure Logo'> <a/> Sample repo on Github
+# <a href='http://alexmarrero.tech'><img src='https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/HTML5.png' height='60' alt='HTML5 Logo'> <a/> Sample repo on Github
 
 ## Github getting started
 Learning Git and Github
